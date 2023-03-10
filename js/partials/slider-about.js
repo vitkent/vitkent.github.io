@@ -1,0 +1,1 @@
+"use strict";$(".js-slider-about").length&&new Swiper(".js-slider-about",{speed:500,slidesPerView:"auto",spaceBetween:16,pagination:{el:".swiper-pagination",clickable:!0}});

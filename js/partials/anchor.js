@@ -1,0 +1,1 @@
+"use strict";!function(){var r=$(".js-anchor-link"),e=$(".js-burger"),s=$(".b-page-wrapper");r&&e&&r.click(function(){$(this).attr("href");e.removeClass("open"),s.removeClass("no-scroll")})}();

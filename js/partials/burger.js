@@ -1,0 +1,1 @@
+"use strict";!function(){var s=$(".js-burger-btn-open"),n=$(".js-burger-btn-close"),o=$(".b-page-wrapper"),e=$(".js-burger");s.on("click",function(){e.addClass("open"),o.addClass("no-scroll")}),n.on("click",function(){e.removeClass("open"),o.removeClass("no-scroll")})}();

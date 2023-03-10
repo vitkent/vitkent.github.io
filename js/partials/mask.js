@@ -1,0 +1,1 @@
+"use strict";$(".js-tel").length&&$(".js-tel").inputmask({mask:"+7 (999) 999-99-99",showMaskOnHover:!1});
