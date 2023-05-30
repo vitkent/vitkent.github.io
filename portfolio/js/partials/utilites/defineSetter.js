@@ -1,0 +1,1 @@
+"use strict";function defineSetter(e,r){var c={};Object.keys(r).forEach(function(n){n in e||Object.defineProperty(e,n,{get:function(){return c[n]},set:function(e){var t=c[n];e!==t&&(c[n]=e,r[n](e,t))}})})}
