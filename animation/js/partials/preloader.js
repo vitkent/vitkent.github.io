@@ -1,0 +1,1 @@
+"use strict";!function(){var e=document.querySelector(".b-mask");window.addEventListener("load",function(){e.classList.add("hide"),setTimeout(function(){e.remove()},600)})}();
