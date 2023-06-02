@@ -1,0 +1,1 @@
+"use strict";!function(){function e(){document.documentElement.style.setProperty("--vh",window.innerHeight+"px")}window.addEventListener("resize",e),e()}();
